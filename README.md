@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&vCenter=true&width=800&lines=Hola%2C+bienvenido+a+mi+github)](https://git.io/typing-svg)
 <!--
-![imagen](Lospro772_Github_Welcome.png)
+![imagen](Lospro772_Github_Welcome.png) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lospro772&label=Profile%20views&color=blueviolet&style=flat" alt="Lospro772" />
-<p> -->
+<p>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 <!--
