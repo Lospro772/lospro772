@@ -25,3 +25,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+💻 Tech Stack:<br>
+<span>
+Languages:<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
+IDE:<br>
+![Visula studio code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge&logoColor=white")
+![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-hotpink?style=for-the-badge&logo=intellijidea&logoColor=black)<br>
+DataBases:<br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</span>
+
+<h1>🖐️ Contacto</h1>
+
+[![Gmail: yasllanyan@gmail.com ](https://img.shields.io/badge/Gmail-%23E34F26.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtVbFSvznTKjhqdzWQvltZQGzqsSjSSZtlDDgvcdWdWKrMzpDfBmJNRxhzqBqBwsMxdmhhVl)
+[![Instagram: yasiel_1256](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yasiel_1256/)
+[![Discord: CrazyCity22](https://img.shields.io/badge/Discord-%23316192.svg?logo=discord&logoColor=white)](CrazyCity22)
+[![Github: Lospro772](https://img.shields.io/badge/Github-%23316192.svg?logo=Github&logoColor=white)](https://github.com/Lospro772) <br>
+
+
