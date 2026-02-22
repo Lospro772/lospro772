@@ -35,6 +35,8 @@ DataBases:<br>
 [![Instagram: yasiel_1256](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yasiel_1256/)
 [![Discord: CrazyCity22](https://img.shields.io/badge/Discord-%23316192.svg?logo=discord&logoColor=white)](CrazyCity22)
 [![Github: Lospro772](https://img.shields.io/badge/Github-%23316192.svg?logo=Github&logoColor=white)](https://github.com/Lospro772) <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lospro772=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Lospro772/lospro772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
