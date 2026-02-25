@@ -51,15 +51,32 @@ DataBases:<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </span>
+## 📊 GitHub Stats
 
-<h1>🖐️ Contacto</h1>
+<p align="center">
 
-[![Gmail: yasllanyan@gmail.com ](https://img.shields.io/badge/Gmail-%23E34F26.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtVbFSvznTKjhqdzWQvltZQGzqsSjSSZtlDDgvcdWdWKrMzpDfBmJNRxhzqBqBwsMxdmhhVl)
-[![Instagram: yasiel_1256](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yasiel_1256/)
-[![Discord: CrazyCity22](https://img.shields.io/badge/Discord-%23316192.svg?logo=discord&logoColor=white)](CrazyCity22)
-[![Github: Lospro772](https://img.shields.io/badge/Github-%23316192.svg?logo=Github&logoColor=white)](https://github.com/Lospro772) <br>
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Lospro772&theme=tokyonight&locale=es&mode=weekly)](https://git.io/streak-stats)" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lospro772=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📫 Contacto
+
+<p align="center">
+
+<!--
+💼 LinkedIn — https://linkedin.com/in/TU_PERFIL
+-->   
+📧 Email — yasllanyan@gmail.com <br>
+🌐 Portfolio — https://TU_WEB  
+
+</p>
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi perfil — github.com/Lospro772
+</p>
 <!--
 **Lospro772/lospro772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
