@@ -52,12 +52,11 @@ DataBases:<br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </span>
 ## 📊 GitHub Stats
-
+<div align-content="center">
 <p align="center">
-
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Lospro772&theme=tokyonight&locale=es&mode=weekly)](https://git.io/streak-stats)" />
+  <img src="https://streak-stats.demolab.com?user=Lospro772&theme=tokyonight&locale=es&mode=weekly" />
 </p>
-
+</div>
 ---
 
 ## 📫 Contacto
