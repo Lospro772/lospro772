@@ -1,18 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&vCenter=true&width=800&lines=Hola%2C+bienvenido+a+mi+github)](https://git.io/typing-svg)
+<h1 align="center">👋 Hola, soy Yasiel Llanos Yanes</h1>
+<h3 align="center">💻 Desarrollador de Software</h3>
 
-![imagen](Lospro772_Github_Welcome.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lospro772&label=Profile%20views&color=blueviolet&style=flat" alt="Lospro772" />
-<p>
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<p align="center">
+  <img src="imagenes/Lospro772_Github_Welcome.png" width=300 />
+</p>
 
-<h1>🖐️ Hola, soy Yasiel Llanos Yanes</h1>
+<p align="center">
+  <!--
+  <a href="https://linkedin.com/in/TU_PERFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>-->
+  <a href="mailto:yasllanyan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Lospro772">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-🖥️ Actualmente estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**<br>
-🚀 Estudiando en: IES Telesforo Bravo (2025-2026)
+---
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+## 🧠 Sobre mí
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
+
+- 🚀 Estudiando en: IES Telesforo Bravo (2025-2026)
+- 🚀 Interés en desarrollo Full Stack  
+- 📱 Desarrollo Android con Java  
+- ⚙️ APIs REST con Java / Spring  
+- 🌍 Trabajo con metodologías ágiles  
+- 📚 Aprendizaje continuo  
+
+<p align="center">
+🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+</p>
+
+<h1>🖐️ Estadisticas</h1>
 
 💻 Tech Stack:<br>
 <span>
