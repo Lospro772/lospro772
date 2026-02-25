@@ -51,12 +51,14 @@ DataBases:<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </span>
+
 ## 📊 GitHub Stats
-<div align-content="center">
-<p align="center">
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lospro772&theme=tokyonight&locale=es&mode=weekly)](https://git.io/streak-stats)
-</p>
+
 </div>
+
 ---
 
 ## 📫 Contacto
