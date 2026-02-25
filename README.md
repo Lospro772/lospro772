@@ -54,7 +54,7 @@ DataBases:<br>
 ## 📊 GitHub Stats
 <div align-content="center">
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lospro772&theme=tokyonight&locale=es&mode=weekly" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lospro772&theme=tokyonight&locale=es&mode=weekly)](https://git.io/streak-stats)
 </p>
 </div>
 ---
