@@ -69,7 +69,7 @@ DataBases:<br>
 💼 LinkedIn — https://linkedin.com/in/TU_PERFIL
 -->   
 📧 Email — yasllanyan@gmail.com <br>
-🌐 Portfolio — https://TU_WEB  
+🌐 Portfolio — https://lospro772.github.io/
 
 </p>
 
