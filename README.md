@@ -2,7 +2,7 @@
 <h3 align="center">💻 Desarrollador de Software</h3>
 
 <p align="center">
-  <img src="Lospro772_Github_Welcome.png" width=900 />
+  <img src="banner_bienvenida.png.png" width=900 />
 </p>
 
 <p align="center">
